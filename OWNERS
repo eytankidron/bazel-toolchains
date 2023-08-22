@@ -6,11 +6,9 @@ reviewers:
 - smukherj1
 - rbe-toolchains-pr-bot
 - davegay
-- eytankidron
 
 # Approvers can /approve changes to files within this directory tree.
 approvers:
 - smukherj1
 - rbe-toolchains-pr-bot
 - davegay
-- eytankidron
